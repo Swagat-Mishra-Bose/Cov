@@ -1,3 +1,3 @@
 message("Hello this worked")
-junit.parse "*.xml"
+junit.parse "TestSummaries.xml"
 junit.report
