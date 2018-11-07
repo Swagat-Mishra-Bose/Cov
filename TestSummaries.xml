@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0">
+    <testsuite name="CovTests" tests="2" failures="0" time="0.32189393043518066">
+        <testcase classname="CovTests" name="testExample()" time="0.0008999109268188477">
+        </testcase>
+        <testcase classname="CovTests" name="testPerformanceExample()" time="0.318200945854187">
+        </testcase>
+    </testsuite>
+</testsuites>
