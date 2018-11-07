@@ -1,3 +1,3 @@
 message("Hello this worked")
 junit.parse "TestSummaries.xml"
-junit.report
+fail("Tests failed") unless junit.failures.empty?
