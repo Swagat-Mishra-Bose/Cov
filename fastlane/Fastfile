@@ -35,7 +35,7 @@ platform :ios do
       configuration: "Debug",
       derived_data_path: "Build/",
       json_report: true,
-      html_report: false,
+      html_report: true,
       markdown_report: false,
     )
   end
