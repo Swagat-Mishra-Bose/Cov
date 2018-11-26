@@ -1,0 +1,893 @@
+--- !logd uuid purge records
+time  : 2018-11-08 03:19:02-0500
+uuids :
+    - 6878785A-F7BB-3575-AE64-504D858B1DF9
+    - 3B3ECE92-0EDC-3AB0-9D65-0765939EBE14
+    - 6F442432-EBF7-3C2F-83E9-F11EE2EED3A4
+    - 6985F924-44B5-3652-AAA1-D4ECADB42E36
+    - 56084694-0D29-3DF7-8F98-5F56E45619E8
+    - 3DF75660-310A-333E-9D6C-DAC8796221F9
+    - 5F3CA4E3-AC34-38E2-B754-A1BEB26C8B1A
+    - 0595A256-3ADB-39C8-A7E6-45D91518362C
+    - B35D711A-83DF-38D5-B7B4-CDE2CFB2D934
+    - D6FEF4AD-F00E-35AD-A4D6-F2E823F4DFFD
+    - E2EE37BD-6AA0-3376-8892-FC8B0E2E3ABB
+    - F4C00387-BCAE-37A8-877A-9717D45AD68F
+    - F36E553D-CC54-39A5-8AF4-F380813CB8A6
+    - FBE57780-05F9-3D18-A094-D2FBF47DCE6E
+    - 208E6426-F473-3ED6-9749-625EACC33AA8
+    - 2706D144-B7D0-3369-A656-291A9CEA88D2
+    - 89372BB6-FB5C-3382-A9E8-5A5432048424
+    - 80E5EFB4-F796-3855-8FB2-0AC98DF972C6
+    - 101E9D4F-6610-310D-9D98-FC2264022473
+    - 21EEDDF2-42A0-3424-90A4-67D359F2F318
+    - 75F1BD24-76AB-3C4E-A8B2-00F0B9F1DCF6
+    - 009499E2-E950-3BCA-A384-5AF44A6946A6
+    - 3A72CBC4-64B4-309D-BAAC-77567D36A517
+    - 37C3204C-71F2-30B5-8FEB-8F040E3E3801
+    - 37716C05-4BE3-3EAF-A238-D59518E9AF87
+    - 392A487A-8D5F-3650-9271-84C5B6584597
+    - 63C866AB-3699-3650-9624-75870EDFF9A8
+    - 90308061-A3C5-3D79-8574-BC1945760C94
+    - B634AEA4-F4DB-32C3-AFEF-9E9642135159
+    - D585C21D-00F7-3423-9F23-514B59883F6B
+    - AADE8892-5758-3479-9FF9-CEA422F17DF9
+    - B7AEBE63-8EF8-3422-AD83-16FDDE79C55B
+    - A1B3ACB5-10D1-3649-B3ED-5AFE0F8DF57E
+    - EAE0EF70-5674-3F65-BE2C-6C09A404F1EC
+    - CB949DA0-D4DF-39C0-AD77-DC6D79797F4B
+    - 2CCF0F4C-4224-362B-9AED-73FCA420AB67
+    - 1BEFB262-8A82-3681-B0BF-CAA990FA21C0
+    - 233EC520-9D2B-31F2-A1D8-0FA2D6F9A95D
+    - 1D1A68AF-0BED-3F0F-812E-F427C6B5144D
+    - 8BE996A3-1EDA-385D-BEFE-E00093610414
+    - 7F161C7D-046F-38FF-8296-FC4887E573FB
+    - 1468E256-EF82-3A9F-A676-E06E089F3729
+files_in_use: 915
+files_locked: 0
+files_recent: 89
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2018-11-08 21:38:45-0500
+total : 12850450
+procs :
+    - [    2549703,  19.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking ]
+    - [    1933844,  15.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1717314,  13.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     597652,   4.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     577904,   4.5, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     560759,   4.4, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/2E5C7C47-F3F5-4A64-A578-A474B65945A1/Hypno.app/Hypno ]
+    - [     497529,   3.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     441839,   3.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     415043,   3.2, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     335117,   2.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FamilyCircle.framework/familycircled ]
+    - [     231148,   1.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+    - [     216749,   1.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     203336,   1.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/configd_sim ]
+    - [     193100,   1.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/0AEF9C38-AFF6-4540-8961-64060FB189A1/Hypno.app/Hypno ]
+    - [     136800,   1.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreParsec.framework/parsecd ]
+    - [     134194,   1.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/iTunesStore.framework/Support/itunesstored ]
+    - [     132954,   1.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd ]
+    - [     129964,   1.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+    - [     126379,   1.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/routined ]
+    - [     112632,   0.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/sbin/filecoordinationd ]
+
+--- !logd uuid purge records
+time  : 2018-11-09 01:42:36-0500
+uuids :
+    - 95DFCDAE-F4FD-393C-9ABC-562FC791782A
+    - 955232C3-708B-30A7-B255-A089109D01E5
+    - 0CA8FC36-D588-3C44-A07F-45C412D25D36
+    - 0436BD59-9A3C-3AB4-ADE2-6C79994B7257
+    - 35367E1A-486A-3608-B263-725F5E45152C
+    - 3D81D6EC-1201-36DB-A33A-C58EB4698F3E
+    - A3945A24-B462-3003-B3CB-EF40A064C5C1
+    - D7B0F608-C290-34AE-84C8-77DB8D72C175
+    - A5B6032E-3957-320A-ABBD-98472E6BB963
+    - BC90753F-4B25-3D7F-8637-CE230CAC67D3
+    - C07384B3-9C36-3292-A825-DD9ECA89ADC8
+    - FC754B51-983F-3CF4-A071-59C42844CEA6
+    - CF2A9DED-BAD5-37DA-91F2-3410026559CE
+    - C198366A-52BD-3669-A3A4-601E088306F0
+    - C67369F7-ED15-3B12-9138-2CF21B5F254F
+    - EC7D4AC2-1887-35E2-B25E-6815607AAB93
+    - 18A0A571-46B0-3255-B262-44B8E52179BB
+    - 16767862-B51E-39A9-AD8D-1597E5C0F873
+    - 2827DC98-EB68-3940-B912-67C7EE033967
+    - 8FD9E0D6-6077-3453-95E3-F25BE24C72CA
+    - 8AEC9810-8395-3DF0-93CD-2B63CD73E283
+    - 26FFEC36-DED1-3E88-A9BC-4B9319290D1D
+    - 4D423F3A-B0BF-361B-8674-0DC73723FB44
+    - 2F28887A-7C41-328B-9E81-598857A71BF8
+    - 43389A56-E635-3CA8-A191-6C68C891C4A0
+    - 9F4535EC-C4EE-3702-8E96-05CC92FF6364
+    - 9AE79137-1C53-3D8D-9646-ED9EB2499EB7
+    - 656D5F4A-7D09-331F-AEFF-011315EADA3F
+    - 3F691B37-2FB8-39A1-8DEE-D58155AAE826
+    - 018DFAF3-C911-3D32-98F4-1D36F486A41B
+    - 990AFB23-3A9F-3B19-ADEF-DDA889D7D49D
+    - 63C9AD23-A6F0-3DBB-BD05-CEB9DC21690E
+    - 0F1AC3C5-5FA7-3FE6-AFA2-0C36FD54A84F
+    - BFA785A9-065E-3213-BC20-7B03D65324A1
+    - A0AC9DA0-1AAA-30D6-8301-B25FC2DC1360
+    - B14E9C61-1DC1-3659-A0A5-63AC8EBFE053
+    - B6706763-39D1-38AF-BC27-314C15E4ABDB
+    - A82CEDCC-9E77-3414-8F8E-7C6F3B3F1008
+    - A66EA680-E513-30A6-9744-6C3EDECC2792
+    - EF80CAC4-0DA2-39CF-B156-5277929FA6B4
+    - C4E3DFF5-B162-3CD5-97FC-9D5CBBEB2457
+    - E18D7724-867D-3F9C-B82A-CF79C30F3C2F
+    - CC2672AF-40A8-349D-B175-BE080B01B7C5
+    - E8EDD851-ECB1-3DBC-9F9E-65EC374BCCCD
+    - E903F471-6CF5-340A-BE52-D23BF56AF081
+    - E7DA311D-FFF3-3C58-8F2B-20B4BD7701F1
+    - 79F866F4-0F76-3FDE-85C5-9E54FA50373E
+    - 795814B2-A983-3EDF-9C9A-8E39A35F2071
+    - 8316282A-545A-30C6-BB53-3DBFC66B49A7
+    - 235B0431-DB62-36E1-9CEA-08B105F6251D
+    - 8DB18B2D-6534-3C5D-813B-E52EA887932A
+    - 71FF8F81-D1EE-3BAE-B7CB-6CA2278DEB20
+    - 71ED0607-F337-36F2-A6E9-8B4475C791EC
+    - 2E332244-BE57-3AFB-9DC8-B838A6E9500D
+    - 8BC534D8-9A9D-339F-A728-E12CCE3A7285
+files_in_use: 929
+files_locked: 0
+files_recent: 84
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2018-11-09 13:33:59-0500
+total : 13281627
+procs :
+    - [    5555749,  41.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking ]
+    - [    1816097,  13.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     703874,   5.3, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/31145C15-525D-46A3-ABD1-E2A00125A904/Hypno.app/Hypno ]
+    - [     589853,   4.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     588607,   4.4, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/D346582B-57CC-48DC-9540-656503614D7B/Hypno.app/Hypno ]
+    - [     370771,   2.8, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/2CA44BC4-C649-44A2-AD92-F71CAC8AE6EE/Hypno.app/Hypno ]
+    - [     338613,   2.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/C3183CA4-C6BB-47E5-847C-052A33A09F87/Hypno.app/Hypno ]
+    - [     284941,   2.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     266905,   2.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     261420,   2.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     247138,   1.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     178950,   1.3, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/DE0F6BC9-7E08-4DFC-989B-F851DC4D27FA/Hypno.app/Hypno ]
+    - [     162408,   1.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+    - [     157568,   1.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     149870,   1.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+    - [     126520,   1.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd ]
+    - [     124043,   0.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [      89810,   0.7, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/677E2770-2BAE-4554-8B01-85D0E1ED3CF5/Hypno.app/Hypno ]
+    - [      87965,   0.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FamilyCircle.framework/familycircled ]
+    - [      86104,   0.6, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/8F24B356-BF62-4566-B5FD-1D660F398359/Hypno.app/Hypno ]
+
+--- !logd purge record
+type  : Special Periodic Compaction
+goal  : 0
+time  : 2018-11-10 06:19:42-0500
+files :
+    - [ Special/0000000000000001.tracev3, 276392, 174312 ]
+done  : 2018-11-10 06:19:42-0500
+
+--- !logd uuid purge records
+time  : 2018-11-10 06:19:42-0500
+uuids :
+    - 6154FDF8-1196-3D2A-A5AA-40C82587A67E
+    - 5A309B26-68A4-3559-A3E4-E82F115118BE
+    - C720AE2F-FBCA-3A16-BDE6-9B17273D1AFA
+    - 7CCB2B16-1046-3E55-870D-96219257B878
+    - 89418A89-CEB1-36D3-951D-086C7E694B23
+    - 87F71F30-5F25-39D0-8C96-1131AB701CB4
+    - 380E01C6-C172-3C4C-A7F7-C7FB77D1E40B
+    - 5C2C3F6B-C580-379B-A259-F234BDFCF2E6
+    - 31173B8C-A36B-332D-9A67-6903A3657630
+    - D2494F52-9137-3EA7-87AC-EB10EC89A238
+    - C3684268-9BCD-3570-9B6F-CAC633537560
+    - FF611AFC-0FD2-3EC5-8AD0-8578DD763B54
+files_in_use: 982
+files_locked: 0
+files_recent: 31
+
+--- !logd purge record
+type  : Special Periodic Compaction
+goal  : 0
+time  : 2018-11-12 09:25:56-0500
+files :
+    - [ Special/0000000000000001.tracev3, 174312, 87840 ]
+done  : 2018-11-12 09:25:57-0500
+
+--- !logd uuid purge records
+time  : 2018-11-12 09:25:58-0500
+uuids :
+    - 956B4F38-85C8-37D5-BC90-0C88039EF11C
+    - 0439BFAD-38C8-30F3-B4CA-28EC3C8DE4E7
+    - 3C4CF49D-BE6E-3E5C-AE9C-E05D34E7D024
+    - 93A5C960-5F65-3EAD-B35C-E7352927C26D
+    - 3377AE2E-D62B-3065-9260-350D471981D4
+    - AD3A0799-8C77-3B28-971B-EC8C055EC6AA
+    - D1D170E9-1AFC-31C8-AA2C-C35A021DE2F9
+    - D6E73F86-0DBB-3A7C-B3C1-06CBC445D91A
+    - D66FA2C0-5FE7-3F08-A951-74943165AA20
+    - AEFD827E-6CB5-35EA-9526-ABB5636F069C
+    - AE588635-81DB-3F08-883B-E0C302214391
+    - D8965753-326D-3B0A-9905-A86A30BCB190
+    - FC1B6307-B0BF-3681-B90F-7BE28868DF4D
+    - FBE88142-2175-3A81-9AC8-4E847F91C1F9
+    - 18E38A9A-661F-394A-B3F6-8E08CA8685E5
+    - 29AD9503-DD5E-3644-820E-E75B097B2509
+    - 4C560F2C-3F3C-3423-B806-2C4D39D570A0
+    - 219FEDC9-84B8-3190-ABD8-7613C10BC5FF
+    - 4D04D713-7B1A-37E8-89EC-FE12C9626280
+    - 2AF7CB9C-2104-3ED4-B98A-568209B1B21B
+    - 2F065671-AEB4-3E32-88C4-F4E2C39B7E23
+    - 969ACC12-2846-3FF3-ACBF-C008D6B72861
+    - 063C040D-65F5-3845-9BF6-3BEF7ABDBF85
+    - 396D3A84-3769-382E-8731-E187A64EDF71
+    - 9756740F-9B4B-3295-ABE7-86EFC3E074D4
+    - 0A5EC6CC-33B5-395D-868B-1507C0BBF069
+    - 90D3014E-829F-3176-A814-72C57A395533
+    - D36D229D-B457-3AEA-AF27-48F2F038C909
+    - D4A7F682-9DEE-30E6-B9E9-6B5A84DC9F6F
+    - A9511B24-A99C-3EAC-9487-DB8180B2CDEC
+    - 2DDE165F-D43C-3B75-BEF1-49715083A3EC
+    - 779EBC24-D8A4-3F14-B7C4-0DA814DC4877
+    - 82DCE796-624F-3A95-8CF1-5370D69482BC
+    - 409848AB-B271-3D85-8AAB-489D0241A7F7
+    - 2E371B90-439C-39A2-8361-9007FC8A1EA3
+files_in_use: 978
+files_locked: 0
+files_recent: 0
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2018-11-12 10:24:11-0500
+total : 13060193
+procs :
+    - [    4445747,  34.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking ]
+    - [    1274456,   9.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     988008,   7.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     538413,   4.1, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/568AD94A-995C-450C-B233-01E1B197AC6E/Hypno.app/Hypno ]
+    - [     529146,   4.1, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/CFF1297D-2261-40B7-B6EE-2A21A94AAB80/Hypno.app/Hypno ]
+    - [     454751,   3.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/D8C2689B-D5B0-41DD-A272-F45818F1582D/Hypno.app/Hypno ]
+    - [     435064,   3.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/configd_sim ]
+    - [     434888,   3.3, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/1B26E673-B244-429F-A39A-DBFAB8F516C3/Hypno.app/Hypno ]
+    - [     378073,   2.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/C69844C3-68A1-4D6A-BECE-382DD2937E7F/Hypno.app/Hypno ]
+    - [     367273,   2.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     313751,   2.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     237876,   1.8, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/F7144A4C-8C00-4919-AEC0-46D65723AE64/Hypno.app/Hypno ]
+    - [     235792,   1.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service ]
+    - [     227791,   1.7, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/2874A5DE-4318-4107-9D28-9DD551FE752B/Hypno.app/Hypno ]
+    - [     204324,   1.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     198840,   1.5, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreParsec.framework/parsecd ]
+    - [     179442,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     177944,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     174521,   1.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     158120,   1.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FamilyCircle.framework/familycircled ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Persist/0000000000000006.tracev3
+time  : 2018-11-12 10:49:10-0500
+total : 37312254
+procs :
+    - [   10686808,  28.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [    7156750,  19.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking ]
+    - [    2782726,   7.5, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    2079752,   5.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/trustd ]
+    - [    2062822,   5.5, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+    - [    1284031,   3.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [     860921,   2.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.WebContent.xpc/com.apple.WebKit.WebContent ]
+    - [     768102,   2.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ApplePushService.framework/apsd ]
+    - [     591042,   1.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     510414,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Developer/Library/PrivateFrameworks/DVTInstrumentsFoundation.framework/DTServiceHub ]
+    - [     507694,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     427680,   1.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/videosubscriptionsd ]
+    - [     409065,   1.1, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/2CA44BC4-C649-44A2-AD92-F71CAC8AE6EE/Hypno.app/Hypno ]
+    - [     399534,   1.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Pasteboard.framework/Support/pasted ]
+    - [     330643,   0.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd ]
+    - [     295664,   0.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/VoiceServices.framework/Support/voiced ]
+    - [     283426,   0.8, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     281801,   0.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreParsec.framework/parsecd ]
+    - [     275481,   0.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/lsd ]
+    - [     244124,   0.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2018-11-12 12:59:40-0500
+total : 13470933
+procs :
+    - [    5189437,  38.5, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking ]
+    - [    1934657,  14.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     881021,   6.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/9476C75A-6679-493F-A943-E7517355C5C6/Hypno.app/Hypno ]
+    - [     513075,   3.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     387887,   2.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/E0339346-6928-4917-BA3E-0900BC95736B/Hypno.app/Hypno ]
+    - [     378696,   2.8, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/45117D16-B1D4-40CB-A9D2-416139507309/Hypno.app/Hypno ]
+    - [     377924,   2.8, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/60518DE9-3CB1-49A7-BFA9-71D644C8E8AB/Hypno.app/Hypno ]
+    - [     337262,   2.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/A56E0531-38CA-4BB3-9B86-7C03E9467DC6/Hypno.app/Hypno ]
+    - [     333752,   2.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/949A1215-2C31-4495-AB31-24315CAA16C1/Hypno.app/Hypno ]
+    - [     333355,   2.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/8360CC8D-EAF0-4F3C-BCEC-E265BBD843D9/Hypno.app/Hypno ]
+    - [     329784,   2.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     283312,   2.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     261158,   1.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/F6CD413C-CB70-4236-8DAC-5FEE16853BF0/Hypno.app/Hypno ]
+    - [     229807,   1.7, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/0D2932AA-FFC1-4BD2-A8CD-350566D910D2/Hypno.app/Hypno ]
+    - [     220581,   1.6, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/3C5D88FD-F0FE-4502-8309-1B2EB8A819FA/Hypno.app/Hypno ]
+    - [     207428,   1.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/4079DAFC-E198-4D24-89B8-72F30808E0E6/Hypno.app/Hypno ]
+    - [     186537,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+    - [     178342,   1.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+    - [     121309,   0.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service ]
+    - [     112312,   0.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2018-11-12 13:55:40-0500
+total : 13780087
+procs :
+    - [    3214443,  23.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking ]
+    - [    1918155,  13.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1456111,  10.6, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/2CBD03D6-EE11-424F-8AC1-889138DEA796/Hypno.app/Hypno ]
+    - [    1305096,   9.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/E0D09BE7-9D55-49B9-A9FC-BAD87884537A/Hypno.app/Hypno ]
+    - [     721154,   5.2, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/F1E75102-6613-466F-AA49-84CC2BF5A3F4/Hypno.app/Hypno ]
+    - [     581319,   4.2, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/5C4D6603-C36D-4A76-A459-2F279867601A/Hypno.app/Hypno ]
+    - [     526467,   3.8, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/1928598D-60DA-497F-96C5-A9D4375CE898/Hypno.app/Hypno ]
+    - [     454546,   3.3, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/3853EB80-6EF3-4B79-9AC4-7DF72495882D/Hypno.app/Hypno ]
+    - [     414389,   3.0, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/B5112AC2-D483-468B-B5EF-F6B3955D7EDC/Hypno.app/Hypno ]
+    - [     357498,   2.6, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/7ABFC0F2-1E31-4E1C-80DB-9390E7CB5CEE/Hypno.app/Hypno ]
+    - [     310854,   2.3, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/4A0C4B56-9CAE-465B-946C-2231AA1AA9F9/Hypno.app/Hypno ]
+    - [     286141,   2.1, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/1F85EDD3-929F-4C46-8050-BC8CC533F48A/Hypno.app/Hypno ]
+    - [     257549,   1.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/43B33DC0-AD18-423F-93D4-2113E7A17D8A/Hypno.app/Hypno ]
+    - [     248214,   1.8, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/9476C75A-6679-493F-A943-E7517355C5C6/Hypno.app/Hypno ]
+    - [     236212,   1.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     211472,   1.5, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     194222,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+    - [     190561,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     143457,   1.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     141819,   1.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+
+--- !logd uuid purge records
+time  : 2018-11-12 16:20:59-0500
+uuids :
+    - 96EAB8FD-BEEE-3136-9145-364D981E5B07
+    - 39B72DB1-F4A0-38C6-A129-ED0346B0D431
+    - 768D0CEC-11FD-3424-8F16-D237153C3D46
+files_in_use: 937
+files_locked: 1
+files_recent: 104
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2018-11-13 13:51:23-0500
+total : 13704728
+procs :
+    - [    2169186,  15.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1322613,   9.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking ]
+    - [     901223,   6.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     883419,   6.4, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/EBE2F93F-CF3D-4964-9A66-C26417690BBC/Hypno.app/Hypno ]
+    - [     831809,   6.1, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/5F98B8CF-73CE-4F92-9A91-C7DFACA53BE9/Hypno.app/Hypno ]
+    - [     810878,   5.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/8E6303CD-6340-4E6E-98D7-8620A00C4CFA/Hypno.app/Hypno ]
+    - [     807236,   5.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/C10CA5B5-9A82-48DF-9D7A-E62DF357AF9A/Hypno.app/Hypno ]
+    - [     760863,   5.6, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/40B77B47-BD95-439B-B730-7FA11F9E921D/Hypno.app/Hypno ]
+    - [     760134,   5.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/5C0E85AB-2BD3-49E4-A4A1-D9D667964A2B/Hypno.app/Hypno ]
+    - [     438777,   3.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     355807,   2.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     323327,   2.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     322056,   2.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     280975,   2.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     198415,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+    - [     171291,   1.2, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/22C3D188-61CC-403C-A6B5-A8BA6BC84B01/Hypno.app/Hypno ]
+    - [     163480,   1.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FamilyCircle.framework/familycircled ]
+    - [     150307,   1.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+    - [     144515,   1.1, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/E6C96066-294A-43DE-B7E4-BCE6FB628A5B/DemoVideo.app/DemoVideo ]
+    - [     128061,   0.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/DF4B61EA-90E7-4D4A-811E-64B8C4CF48C7/DemoVideo.app/DemoVideo ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2018-11-13 14:48:06-0500
+total : 13870634
+procs :
+    - [    6339916,  45.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking ]
+    - [    3029926,  21.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     556505,   4.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     303160,   2.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     278811,   2.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+    - [     259861,   1.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+    - [     243104,   1.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     210232,   1.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/0585A712-DB23-4273-A5C6-C2EDBFC84D88/DemoVideo.app/DemoVideo ]
+    - [     187638,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     179502,   1.3, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/639A9E0D-C59D-4D22-901C-25BE869C6CD4/DemoVideo.app/DemoVideo ]
+    - [     178271,   1.3, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/52464FBE-6C1B-472A-95F9-E36BFED3CC49/DemoVideo.app/DemoVideo ]
+    - [     151522,   1.1, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     149589,   1.1, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/C3AD2A59-170D-4CE4-94B5-17FC05FB6FB2/DemoVideo.app/DemoVideo ]
+    - [     135136,   1.0, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/3C89A9AA-D692-4D97-971A-692695C23F0F/DemoVideo.app/DemoVideo ]
+    - [     129862,   0.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/FCC2320E-E672-4CA9-A917-65979A20FCA5/DemoVideo.app/DemoVideo ]
+    - [     128667,   0.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/8FB68768-0D0A-400D-817D-327EB2FFDE3A/DemoVideo.app/DemoVideo ]
+    - [     113255,   0.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreParsec.framework/parsecd ]
+    - [     111304,   0.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     110774,   0.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/FileProvider.framework/Support/fileproviderd ]
+    - [      94648,   0.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Persist/0000000000000008.tracev3
+time  : 2018-11-13 18:50:33-0500
+total : 37770969
+procs :
+    - [   10444743,  27.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [    6638918,  17.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking ]
+    - [    3817605,  10.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    2769591,   7.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+    - [    2550104,   6.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/trustd ]
+    - [    1279181,   3.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [    1001984,   2.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.WebContent.xpc/com.apple.WebKit.WebContent ]
+    - [     706308,   1.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ApplePushService.framework/apsd ]
+    - [     665790,   1.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     616733,   1.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     429453,   1.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Pasteboard.framework/Support/pasted ]
+    - [     418176,   1.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/videosubscriptionsd ]
+    - [     383936,   1.0, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     363794,   1.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/lsd ]
+    - [     349368,   0.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     294160,   0.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/VoiceServices.framework/Support/voiced ]
+    - [     291445,   0.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Developer/Library/PrivateFrameworks/DVTInstrumentsFoundation.framework/DTServiceHub ]
+    - [     288886,   0.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     258395,   0.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd ]
+    - [     232417,   0.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/installd ]
+
+--- !logd purge record
+type  : Signpost Periodic Compaction
+goal  : 0
+time  : 2018-11-14 10:27:45-0500
+files :
+    - Signpost/0000000000000001.tracev3
+    - Signpost/0000000000000002.tracev3
+count : 2
+size  : 6616
+kept  : 4 files, 57568 bytes
+
+--- !logd purge record
+type  : Special Periodic Compaction
+goal  : 0
+time  : 2018-11-14 10:27:45-0500
+files :
+    - [ Special/0000000000000002.tracev3, 159232, 66160 ]
+done  : 2018-11-14 10:27:45-0500
+
+--- !logd uuid purge records
+time  : 2018-11-14 10:27:46-0500
+uuids :
+    - 0DBE20F9-2FD5-3B7B-9EC1-8F7DBBB8547C
+    - 956B4F38-85C8-37D5-BC90-0C88039EF11C
+    - 664285F5-4BF4-379D-9135-99B3521BA3E6
+    - 68EADFB0-F7F3-37CC-840D-6354C16E843E
+    - 9B741312-82A6-3D6A-9918-45CDEE4F733D
+    - 9BF74531-ABDE-3E74-9564-E417B14E64C3
+    - 042CFD02-D56F-33ED-B4F7-6030AF8D589E
+    - 04314A05-7A5A-39A0-8334-1339829B275C
+    - 51D04827-199F-3D8B-94CB-8378E71E1267
+    - 0B8F0B6E-E0F7-38C5-8B8E-8726D8579BDB
+    - 93A5C960-5F65-3EAD-B35C-E7352927C26D
+    - 3377AE2E-D62B-3065-9260-350D471981D4
+    - 0590A9F3-82EE-3A48-AA9C-C9755EBD4D6F
+    - 9DCDD34F-04FC-3BA9-A021-7CD584E06941
+    - 029B284F-49B7-3192-9090-422940ABF614
+    - A4D3DA3F-B985-32D4-AF7D-CB078FCB6760
+    - A4B975CF-2604-31DF-A75E-83BD15CC9C31
+    - AD3A0799-8C77-3B28-971B-EC8C055EC6AA
+    - BECDEF97-C947-3DA8-8597-DAE4ECA6F662
+    - D1D170E9-1AFC-31C8-AA2C-C35A021DE2F9
+    - D1B257CF-3460-3BBF-80D8-A81A0A34C62E
+    - D6E73F86-0DBB-3A7C-B3C1-06CBC445D91A
+    - D66FA2C0-5FE7-3F08-A951-74943165AA20
+    - AEFD827E-6CB5-35EA-9526-ABB5636F069C
+    - D82E53C0-FB63-3B47-B96D-D35D516C28F4
+    - E2E8D814-420B-3D6C-B92A-91B414CAC808
+    - FB73E5A6-3D78-3139-95CC-6B359B6229C7
+    - FBE88142-2175-3A81-9AC8-4E847F91C1F9
+    - C13F0950-6B50-3FE0-8FCB-949B44A6F38A
+    - C17E6256-0E82-37B1-A80F-290476147CF9
+    - 29AD9503-DD5E-3644-820E-E75B097B2509
+    - 7CCB2B16-1046-3E55-870D-96219257B878
+    - 45AA6BA3-5F2C-3769-AC60-37F35B6E3647
+    - 1FCA6083-69A9-30A2-B428-20050F878748
+    - 28FB56BF-0F69-38D9-BA59-C8E8C62FC14D
+    - 8ABEFAE2-87DD-33F3-B7DE-EFB63F4BA573
+    - 7E033BF7-DCE5-3254-B72D-9DA28448A4F2
+    - 21093E08-0CC0-37CC-9257-7E096A8213C6
+    - 21F80E4F-0A80-3B72-9019-38E7ABDB0BDC
+    - 4D04D713-7B1A-37E8-89EC-FE12C9626280
+    - 753EE86E-C083-3B95-83A2-5729302FD164
+    - 81F654DD-2090-3E53-8FD5-CEF936B1E676
+    - 865D1D0E-AF43-37C6-84BD-EA209AFF8C9C
+    - 2AD86AA8-548F-37BC-BF85-B874A920DF57
+    - 2AF7CB9C-2104-3ED4-B98A-568209B1B21B
+    - 431D6231-D0B8-3566-84C3-CDACE441BEAC
+    - 6B942322-A9CB-3BA2-9114-9054A1E43CEF
+    - 6EFD935E-1F47-3EC6-AA30-446DDFD5EE01
+    - 36116584-30B4-3BDA-ABC0-92E5D2B6E577
+    - 31173B8C-A36B-332D-9A67-6903A3657630
+    - 969ACC12-2846-3FF3-ACBF-C008D6B72861
+    - 537C21D5-99A6-31CD-A6FA-C221646D0DE3
+    - 5ECE9CE6-80E1-3C1B-A752-B1DD65DC952F
+    - 010961A4-C88A-3040-BD75-B72A7D8DD4BA
+    - 39B72DB1-F4A0-38C6-A129-ED0346B0D431
+    - 396D3A84-3769-382E-8731-E187A64EDF71
+    - 521F3296-1081-3185-88B1-60FED450DAAF
+    - 9756740F-9B4B-3295-ABE7-86EFC3E074D4
+    - 0A5EC6CC-33B5-395D-868B-1507C0BBF069
+    - 90E05887-2794-33E5-A42D-13BFB1D82414
+    - 90D3014E-829F-3176-A814-72C57A395533
+    - D36D229D-B457-3AEA-AF27-48F2F038C909
+    - D4A7F682-9DEE-30E6-B9E9-6B5A84DC9F6F
+    - A9511B24-A99C-3EAC-9487-DB8180B2CDEC
+    - A90A68E9-7CE8-38B4-BA65-F52C1857C150
+    - DEF0E023-F2FB-37FD-BB6E-968A0A6A496F
+    - A6701C1A-E141-3A5B-AB76-537C6AB7C04F
+    - B963C6B9-94E6-3AED-A236-27B8A2D9EEA2
+    - C3684268-9BCD-3570-9B6F-CAC633537560
+    - C4D20343-FAF2-3CC4-A38A-E9BF6B7AD397
+    - C489A48F-01FD-33E7-ABA9-37DD544C1919
+    - F974E7B4-9F1D-344A-B9CB-7BFE11B52F5C
+    - E01A5B5D-1AEF-384A-AF4E-061D5341AE4F
+    - 2C6DF5D1-0DBA-323C-ADD2-3B52EE8EC393
+    - 7951BDEB-1179-3689-A4F2-9B920BE8C1BF
+    - 2DDE165F-D43C-3B75-BEF1-49715083A3EC
+    - 410E47AF-707D-3F6D-9432-F8950D30749F
+    - 779EBC24-D8A4-3F14-B7C4-0DA814DC4877
+    - 84BA25A5-1A38-3CFD-B88D-673311ADA8C9
+    - 8D6704B8-1411-3D93-8000-92BA04271DDB
+    - 15565994-EEA2-354A-878E-ECCA645CC36A
+    - 7676DA4E-7A6D-3071-A571-8C211F21CECE
+    - 82DCE796-624F-3A95-8CF1-5370D69482BC
+    - 2E371B90-439C-39A2-8361-9007FC8A1EA3
+    - 2E658299-4A80-348C-936F-977798DE20F2
+    - 2BAAA351-2429-3DBB-B2A1-B94600C9CF96
+    - 786554D4-F70F-3E1B-B22D-9BE89C48F655
+    - 7A338DB9-249D-3EB3-A8D8-999C522F77A4
+    - 1418FB5F-D680-3627-9251-16083BC3ABC3
+files_in_use: 973
+files_locked: 1
+files_recent: 35
+
+--- !logd purge record
+type  : Signpost Periodic Compaction
+goal  : 0
+time  : 2018-11-15 06:46:53-0500
+files :
+    - Signpost/0000000000000003.tracev3
+count : 1
+size  : 2184
+kept  : 6 files, 59184 bytes
+
+--- !logd uuid purge records
+time  : 2018-11-15 06:46:54-0500
+uuids :
+    - 3C4CF49D-BE6E-3E5C-AE9C-E05D34E7D024
+    - E58421B2-09BD-309B-BBC6-F497CBD41B16
+    - FC1B6307-B0BF-3681-B90F-7BE28868DF4D
+    - 18E38A9A-661F-394A-B3F6-8E08CA8685E5
+    - 7E6021EA-BC18-34EE-A17E-4CCB13C86FE5
+    - 7E1D61DF-6308-3E1B-B1AA-B86156BBED26
+    - 2AB28CC8-8B00-32F1-950E-204431BF783B
+    - 2F065671-AEB4-3E32-88C4-F4E2C39B7E23
+    - 96EAB8FD-BEEE-3136-9145-364D981E5B07
+    - 982F60E7-3C26-34BB-8C35-1754C574688A
+    - 3729C50E-3A6E-3581-9D0F-196FC5DD5335
+    - 854AB529-4442-300C-9028-027A2C6C6042
+    - 409848AB-B271-3D85-8AAB-489D0241A7F7
+    - 2E7DF1EA-A5F6-3BBA-B79C-B896F297CDC5
+    - 47920E9A-05C8-37C2-9763-576E72C97815
+files_in_use: 998
+files_locked: 1
+files_recent: 45
+
+--- !logd purge record
+type  : Signpost Periodic Compaction
+goal  : 0
+time  : 2018-11-16 04:35:33-0500
+files :
+    - Signpost/0000000000000004.tracev3
+count : 1
+size  : 10064
+kept  : 6 files, 52832 bytes
+
+--- !logd purge record
+type  : Special Periodic Compaction
+goal  : 0
+time  : 2018-11-16 04:35:34-0500
+files :
+    - [ Special/0000000000000005.tracev3, 285168, 187160 ]
+    - [ Special/0000000000000004.tracev3, 442152, 159048 ]
+done  : 2018-11-16 04:35:34-0500
+
+--- !logd uuid purge records
+time  : 2018-11-16 04:35:35-0500
+uuids :
+    - 6FD5FCA2-D0AA-3B50-AFCD-74DC3C3C4E2D
+    - 9C614206-7E4D-3A67-AAC2-E36E76FF7240
+    - B5FF4A2A-3FE0-347C-B1EE-CD76EF217929
+    - 4E1FD29A-00BA-34AB-A5BE-23924136977E
+    - 2001B141-3502-3845-B8D6-9293EDDD31F5
+    - 7DDF4304-A964-3B41-9870-F43C5401662C
+    - 427DBF23-EEE1-3C41-BC7C-32BDA60E3088
+    - 5CBE7684-EC4D-39D7-8714-E17C3DA03673
+    - 6200E2B2-8A81-3232-B0CB-AA10AF470110
+    - 96D351A3-F60E-36CF-9E48-9D0B7CEB5C55
+    - 55DD7944-E631-34F6-9955-F20CF6C8D9F5
+    - DD5A85DB-3CAD-399D-AE7D-CB0D0B29E891
+    - B6DBE870-8A88-32E5-A0BF-85D2A7D85163
+    - B963C6B9-94E6-3AED-A236-27B8A2D9EEA2
+    - A1E00209-E9CD-3559-BDFE-16CB508938BB
+    - 2D1FB3A1-7376-35FD-932B-D5979B3147A9
+    - 8C890A63-D3D6-3060-A966-23DAFA26006D
+files_in_use: 1006
+files_locked: 1
+files_recent: 47
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2018-11-17 08:20:16-0500
+total : 14169279
+procs :
+    - [    2307922,  16.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1895255,  13.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     985776,   7.0, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/25B4A385-ABB9-4FFD-A491-95555D79C6C5/Hypno.app/Hypno ]
+    - [     778099,   5.5, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/6AB1619D-0180-4668-BDF9-00BD974E39F5/Hypno.app/Hypno ]
+    - [     749177,   5.3, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/7FC6D84F-D22E-41D8-8E77-DB272073F45A/Hypno.app/Hypno ]
+    - [     722091,   5.1, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/247E4B10-EF93-4D7C-9D84-ECFD6ABBA127/Hypno.app/Hypno ]
+    - [     700510,   4.9, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/91E8A612-1D6B-45A5-BC13-796EF8B728AF/Hypno.app/Hypno ]
+    - [     698206,   4.9, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     615832,   4.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     450391,   3.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     388079,   2.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     380905,   2.7, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     306977,   2.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     292901,   2.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreParsec.framework/parsecd ]
+    - [     210561,   1.5, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FamilyCircle.framework/familycircled ]
+    - [     206963,   1.5, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+    - [     204466,   1.4, /Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/56DDEDA0-E183-418C-9666-7D20FC3CAC0C/Hypno.app/Hypno ]
+    - [     203416,   1.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/configd_sim ]
+    - [     186836,   1.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+    - [     184736,   1.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/sbin/filecoordinationd ]
+
+--- !logd purge record
+type  : Signpost Periodic Compaction
+goal  : 0
+time  : 2018-11-17 08:20:18-0500
+files :
+    - Signpost/0000000000000005.tracev3
+count : 1
+size  : 5440
+kept  : 5 files, 50480 bytes
+
+--- !logd purge record
+type  : Special Periodic Compaction
+goal  : 0
+time  : 2018-11-17 08:20:18-0500
+files :
+    - [ Special/0000000000000006.tracev3, 1050912, 659216 ]
+    - [ Special/0000000000000005.tracev3, 187160, 70984 ]
+done  : 2018-11-17 08:20:20-0500
+
+--- !logd uuid purge records
+time  : 2018-11-17 09:19:45-0500
+uuids :
+    - AE588635-81DB-3F08-883B-E0C302214391
+    - D8965753-326D-3B0A-9905-A86A30BCB190
+    - 063C040D-65F5-3845-9BF6-3BEF7ABDBF85
+files_in_use: 1096
+files_locked: 1
+files_recent: 47
+
+--- !logd uuid purge records
+time  : 2018-11-18 20:00:43-0500
+uuids :
+    - 042CFD02-D56F-33ED-B4F7-6030AF8D589E
+    - 35367E1A-486A-3608-B263-725F5E45152C
+    - 3C4CF49D-BE6E-3E5C-AE9C-E05D34E7D024
+    - 5F6C438E-D590-3BC5-A4E2-EEFBA33E23C7
+    - 9C38414B-9FC9-3FF1-97A7-FB44E0142697
+    - D969B620-D9DE-34E3-BBD2-14E055F53164
+    - BECDEF97-C947-3DA8-8597-DAE4ECA6F662
+    - D1D170E9-1AFC-31C8-AA2C-C35A021DE2F9
+    - D1B257CF-3460-3BBF-80D8-A81A0A34C62E
+    - FC1B6307-B0BF-3681-B90F-7BE28868DF4D
+    - CFCB7F43-CAE5-334D-BD94-F637DD154658
+    - C8D5216E-9D98-3E98-A43E-B2C228663694
+    - 18E38A9A-661F-394A-B3F6-8E08CA8685E5
+    - 11DBA8B6-8C04-37A3-A04E-63F1FF374AA1
+    - 7CE8FB63-5122-3915-B044-9F2E1AD8CD5E
+    - 4528C2AC-D12B-3333-93D9-A2B0E8727F0F
+    - 28FB56BF-0F69-38D9-BA59-C8E8C62FC14D
+    - 7E033BF7-DCE5-3254-B72D-9DA28448A4F2
+    - 4C60CAB3-77C9-372C-B5C1-300D2F4B5A87
+    - 21F80E4F-0A80-3B72-9019-38E7ABDB0BDC
+    - 862D2FD4-E7FD-38DE-AAD0-B86034A6A8EE
+    - 865D1D0E-AF43-37C6-84BD-EA209AFF8C9C
+    - 431D6231-D0B8-3566-84C3-CDACE441BEAC
+    - 88AE710D-FAA8-3C54-B3D7-97592D882083
+    - 3831AE82-FCD4-3A1D-881F-C619553A138B
+    - 6EFD935E-1F47-3EC6-AA30-446DDFD5EE01
+    - 5C09D4EB-4B1B-3FB5-9A12-871F703CD1A6
+    - 30424725-C896-3808-9684-B8D12D4111A6
+    - 99370D27-ABDB-3412-8732-FA556444050A
+    - 521F3296-1081-3185-88B1-60FED450DAAF
+    - 0FC53ACF-EAC2-36A2-BA97-BFE9D3A93F74
+    - 90E05887-2794-33E5-A42D-13BFB1D82414
+    - A9511B24-A99C-3EAC-9487-DB8180B2CDEC
+    - D5B0A586-0599-3FD2-AC87-50121E3BFBF0
+    - AA06D4E5-A8B0-3521-A49B-3868DBAB3AA4
+    - B04CA689-8435-376A-96DA-63E9495BA92B
+    - C4D20343-FAF2-3CC4-A38A-E9BF6B7AD397
+    - FF05AB60-BA7E-3726-A76E-B0EE13B5AD86
+    - 7951BDEB-1179-3689-A4F2-9B920BE8C1BF
+    - 779EBC24-D8A4-3F14-B7C4-0DA814DC4877
+    - 8D6704B8-1411-3D93-8000-92BA04271DDB
+    - 15565994-EEA2-354A-878E-ECCA645CC36A
+    - 85312021-037C-3388-B47E-C85D298DF9FA
+    - 1D51CFE8-686A-3FD1-A291-5E5F52CB5223
+    - 40D34A72-4CAC-3632-80D5-D712E08D9105
+    - 786554D4-F70F-3E1B-B22D-9BE89C48F655
+    - 25CF5E4A-6E58-3284-8367-35E659C936A4
+files_in_use: 1096
+files_locked: 1
+files_recent: 0
+
+--- !logd purge record
+type  : Signpost Periodic Compaction
+goal  : 0
+time  : 2018-11-26 12:57:26-0500
+files :
+    - Signpost/0000000000000006.tracev3
+    - Signpost/0000000000000007.tracev3
+    - Signpost/0000000000000008.tracev3
+    - Signpost/0000000000000009.tracev3
+count : 4
+size  : 46208
+kept  : 0 files, 8032 bytes
+
+--- !logd purge record
+type  : Special Periodic Compaction
+goal  : 0
+time  : 2018-11-26 12:57:26-0500
+files :
+    - [ Special/0000000000000006.tracev3, 659216, 83672 ]
+    - [ Special/0000000000000007.tracev3, 785512, 218448 ]
+    - [ Special/0000000000000005.tracev3, 70984, 0 ]
+    - [ Special/0000000000000004.tracev3, 159048, 0 ]
+    - [ Special/0000000000000008.tracev3, 149712, 68240 ]
+    - [ Special/0000000000000001.tracev3, 87840, 0 ]
+    - [ Special/0000000000000009.tracev3, 206256, 95568 ]
+    - [ Special/0000000000000002.tracev3, 66160, 0 ]
+    - [ Special/0000000000000003.tracev3, 111512, 0 ]
+done  : 2018-11-26 12:57:26-0500
+
+--- !logd uuid purge records
+time  : 2018-11-26 12:57:28-0500
+uuids :
+    - 0D76FC2B-9A84-317B-99AB-B13370CA3685
+    - 0DBE20F9-2FD5-3B7B-9EC1-8F7DBBB8547C
+    - 0D1548C2-6314-34B5-A04A-7021BF8CF955
+    - 3EFE5F8B-BA7B-3265-8A3B-F5DD4F75EDE0
+    - 68EADFB0-F7F3-37CC-840D-6354C16E843E
+    - 3B4DC6A3-7AD3-389C-81C2-4DAE93837850
+    - 0362F1E9-B288-3538-BD67-EA5B332C8078
+    - 04AE31F8-B459-3E1B-B515-ED9311AC0037
+    - 6AAFB707-27A4-3BAE-8F99-A97AAE87DF7E
+    - 3CFFFAFF-EF2A-3DCB-AEC5-90C08D39E47D
+    - 567B12FC-36C1-3EB8-830F-FC264A9C1FCE
+    - 58D940E9-F202-3BF8-A442-4B8E8045398C
+    - 94A27B80-E960-36DF-AD19-9D79B6BB70D4
+    - 94B4FCAE-3B68-3A7B-A253-9B8E3BB12760
+    - 34782012-8F05-399E-A708-7C3C11D691A0
+    - 34A5DCC3-DEE6-3FD4-88AC-70F9B699E7B6
+    - 9DF5FA20-F9C7-3286-BE14-7D2F0D5FFAB5
+    - A4B975CF-2604-31DF-A75E-83BD15CC9C31
+    - A3DFE4F5-55F6-3095-AFCF-BF04D25BA888
+    - B3F60090-3758-3366-A323-862BD368B24B
+    - B4CF14A4-FC4D-33CD-B1BF-A6829D8CB6C8
+    - A23BA241-8BAB-3A76-A0C7-4511FAFAAAC6
+    - D1D170E9-1AFC-31C8-AA2C-C35A021DE2F9
+    - D66FA2C0-5FE7-3F08-A951-74943165AA20
+    - AE28A40F-C33D-319E-B744-5F82E60F41E1
+    - AE588635-81DB-3F08-883B-E0C302214391
+    - D8965753-326D-3B0A-9905-A86A30BCB190
+    - E2E8D814-420B-3D6C-B92A-91B414CAC808
+    - C0C9A05A-4CE1-3BD7-BC65-428F1C37A873
+    - F56CA0E7-2142-36A4-8924-BA4EFA9DF8FE
+    - CF418839-965B-387D-8F79-C2AB4A3CF421
+    - CFD14A2A-F4F4-3866-8BF2-4294E831A80D
+    - CA14E0DE-34BC-3D0E-BB98-9F7A3938E588
+    - FBD9C2FD-A914-3E62-99DD-DB00A9536B81
+    - FBFF04D7-400A-3BF9-A877-9225E40241F5
+    - FB73E5A6-3D78-3139-95CC-6B359B6229C7
+    - ED6E78ED-A435-3517-9629-091883F3F5A4
+    - EDECAFF8-3A0F-32CA-9B7B-EDA6FA4DB228
+    - C17E6256-0E82-37B1-A80F-290476147CF9
+    - EC4A2C33-8744-3F4D-A321-96B68688E62D
+    - 7DF42824-62B8-3FEE-8991-BCF35F037493
+    - 29AD9503-DD5E-3644-820E-E75B097B2509
+    - 7CCB2B16-1046-3E55-870D-96219257B878
+    - 1603F69E-913A-3990-B849-AFD653798CE4
+    - 165A0B01-B7B7-369F-B79F-E75CE6E899A3
+    - 45AA6BA3-5F2C-3769-AC60-37F35B6E3647
+    - 1FCA6083-69A9-30A2-B428-20050F878748
+    - 8ABEFAE2-87DD-33F3-B7DE-EFB63F4BA573
+    - 21093E08-0CC0-37CC-9257-7E096A8213C6
+    - 21EAC47D-0ACB-3D02-A54F-1DEA84D16552
+    - 81F654DD-2090-3E53-8FD5-CEF936B1E676
+    - 86D246C6-20FC-3450-A4BC-5739F513321F
+    - 9FF2FD4D-A968-354E-B4A0-6F64214B3516
+    - 6B942322-A9CB-3BA2-9114-9054A1E43CEF
+    - 076D5004-469E-362D-93B8-875FE7376056
+    - 3874AA2E-3AB4-3679-B42C-E26D4926D667
+    - 6ED183F1-BC59-3B6A-9115-0A54D9437D80
+    - 36116584-30B4-3BDA-ABC0-92E5D2B6E577
+    - 09189B3E-5E6F-3926-ADAC-9039AE390C05
+    - 5DA7047B-3DF1-36A6-A87D-DB6301D95F66
+    - 317871CA-ECA4-322A-A9FB-641C0EE4F7B8
+    - 31173B8C-A36B-332D-9A67-6903A3657630
+    - 91864C4C-2743-39BC-AF2E-A91D20F29B52
+    - 62545EC0-53CF-30A1-94EB-73B327B9F151
+    - 54BC2BBF-5E98-31EC-8CAA-28BCD70BA105
+    - 98256B80-D7DA-3D6A-90E2-2BDAD8F5E4C8
+    - 537C21D5-99A6-31CD-A6FA-C221646D0DE3
+    - 3F70A8FF-12FE-3B4E-8529-8BEBB4B235F9
+    - 30728B34-18C5-36AE-9D25-7ECFDD012E4D
+    - 303756BF-BC6F-3227-8770-987FDEA84C38
+    - 5E3BA923-FE50-39E3-B498-76E178C11DA5
+    - 083CBDD2-549B-3650-A37E-D53E129E0B82
+    - 01C2454D-B69B-3C00-933E-9111FE804294
+    - 063C040D-65F5-3845-9BF6-3BEF7ABDBF85
+    - 39B72DB1-F4A0-38C6-A129-ED0346B0D431
+    - 3943EBC2-C31F-32A4-A9ED-5D611150AA9A
+    - 399121A0-9A10-3F3B-B014-654F97A5BB04
+    - 9992E177-2029-3365-B012-552C166DC548
+    - 64E7BFC9-12A7-3521-AEFC-DBCEDB6EDE1C
+    - 903544E6-5AC1-3269-A017-122E823C941B
+    - D32CCAA9-81E1-370B-BF1A-3352AC5AD753
+    - D4EE11A3-4FE5-32AE-8925-0375891446E1
+    - BA57027B-B65F-36CF-9ABA-5938C927C225
+    - A712799F-90E2-3E62-8A20-5EC18C0FB9F2
+    - B852B687-DE72-3F93-9B27-168F18973FBE
+    - B1DA2952-58F7-326E-84F6-47AE2DCBE6EE
+    - DD3CA970-414D-3623-9278-69ABE422B475
+    - A9511B24-A99C-3EAC-9487-DB8180B2CDEC
+    - AF3CCF6F-E9F4-325B-8F17-81CD0F52398D
+    - DEFD895A-0BB4-3526-99B3-1CAA892D1C9B
+    - DEC7E2AF-1F28-37E5-8B0E-3CB0C356A91E
+    - B086DA6D-A4BD-3B49-97F6-C72D22A6147D
+    - A6297430-53EE-3FAC-BE50-9ADC8536736F
+    - B9287BB6-12C2-3623-8676-E5E1AF468D00
+    - C3684268-9BCD-3570-9B6F-CAC633537560
+    - C489A48F-01FD-33E7-ABA9-37DD544C1919
+    - EAB6DE5B-598E-39ED-BD7F-FE2E5FD3A67D
+    - F98AC5A3-2645-3DC9-9AD6-820D314F6B07
+    - F974E7B4-9F1D-344A-B9CB-7BFE11B52F5C
+    - E8935C7E-0BE0-379C-B741-E47D769553A9
+    - FABD2C91-1D17-388B-AFFB-C37D23D26734
+    - E7D5DCC0-B380-3950-8B89-F18BD907B643
+    - CBCC3B13-56EB-3A39-8848-0E93E2AB5487
+    - 1BFA418E-B17A-34A0-99DD-A75D0DD2EA73
+    - 779EBC24-D8A4-3F14-B7C4-0DA814DC4877
+    - 77574870-3B81-33A1-A80B-12DFC3183A8C
+    - 77E028C6-0E1A-3542-8ACA-A6EE5909F259
+    - 84BA25A5-1A38-3CFD-B88D-673311ADA8C9
+    - 84A684D8-67E8-34D2-9554-44CA8A2E2947
+    - 2424AB2B-A913-362A-9281-8D78E7078BDB
+    - 8CD302A0-1408-34BC-8A14-3DF2F8A5414D
+    - 7676DA4E-7A6D-3071-A571-8C211F21CECE
+    - 768D0CEC-11FD-3424-8F16-D237153C3D46
+    - 2E1B0BC7-87D5-373D-BE26-1A0AD0903368
+    - 2E658299-4A80-348C-936F-977798DE20F2
+    - 2B97744F-4310-3E86-9DF7-B141A389FC9E
+    - 2BAAA351-2429-3DBB-B2A1-B94600C9CF96
+    - 478CF17A-D33A-35CD-8A37-E4D805D0901D
+    - 8B8C91A8-327E-325E-BF82-D1E3883DBC80
+    - 7A338DB9-249D-3EB3-A8D8-999C522F77A4
+    - 146C8E93-7712-3F58-AA62-6CBBE33A44C6
+    - 1418FB5F-D680-3627-9251-16083BC3ABC3
+    - 8E7B9DA5-19D2-36DB-BF9F-5F3179559C07
+    - 22EB04C2-A70E-31B1-98AC-7DBA7C1CD261
+files_in_use: 973
+files_locked: 1
+files_recent: 5
+

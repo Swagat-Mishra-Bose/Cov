@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0357BDBF-D2EC-4CA5-B251-7C934DC12655</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0357BDBF-D2EC-4CA5-B251-7C934DC12655.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Cov project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cov</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project Cov with scheme Cov</string>
+			<key>timeStartedRecording</key>
+			<real>564948152.44966304</real>
+			<key>timeStoppedRecording</key>
+			<real>564948153.60576296</real>
+			<key>title</key>
+			<string>Testing project Cov with scheme Cov</string>
+			<key>uniqueIdentifier</key>
+			<string>0357BDBF-D2EC-4CA5-B251-7C934DC12655</string>
+		</dict>
+		<key>24545C5B-EFD4-43FF-96FC-38EB6D0D4777</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>24545C5B-EFD4-43FF-96FC-38EB6D0D4777.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Cov project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cov</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Cov with scheme Cov</string>
+			<key>timeStartedRecording</key>
+			<real>564948150.58927703</real>
+			<key>timeStoppedRecording</key>
+			<real>564948152.44941795</real>
+			<key>title</key>
+			<string>Building project Cov with scheme Cov</string>
+			<key>uniqueIdentifier</key>
+			<string>24545C5B-EFD4-43FF-96FC-38EB6D0D4777</string>
+		</dict>
+		<key>9A9C14A3-273F-455C-B586-7B47A35412BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A9C14A3-273F-455C-B586-7B47A35412BB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Cov project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cov</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project Cov with scheme Cov</string>
+			<key>timeStartedRecording</key>
+			<real>564948130.61474395</real>
+			<key>timeStoppedRecording</key>
+			<real>564948132.06097102</real>
+			<key>title</key>
+			<string>Testing project Cov with scheme Cov</string>
+			<key>uniqueIdentifier</key>
+			<string>9A9C14A3-273F-455C-B586-7B47A35412BB</string>
+		</dict>
+		<key>A1164F6A-CDB0-408F-83A2-3A6722AB4D4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1164F6A-CDB0-408F-83A2-3A6722AB4D4B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Cov project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cov</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project Cov with scheme Cov</string>
+			<key>timeStartedRecording</key>
+			<real>564948150.41100597</real>
+			<key>timeStoppedRecording</key>
+			<real>564948150.58821797</real>
+			<key>title</key>
+			<string>Cleaning project Cov with scheme Cov</string>
+			<key>uniqueIdentifier</key>
+			<string>A1164F6A-CDB0-408F-83A2-3A6722AB4D4B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

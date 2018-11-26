@@ -1,0 +1,252 @@
+13:02:33.623 xcodebuild[67648:5500493] Beginning test session CovTests-F4843D9E-7220-466E-A8E7-6CB7CA2DBF1E at 2018-11-26 13:02:33.622 with Xcode 10B61 on target <DVTiPhoneSimulator: 0x7fbf0be91bf0> {
+		SimDevice: iPhone XR (F38D8B4A-8E26-48B6-A647-9432F9437EBB, iOS 12.1, Booted)
+} (12.1 (16B91))
+13:02:33.623 xcodebuild[67648:5500493] 	/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+-project
+Cov.xcodeproj/
+-scheme
+Cov
+-derivedDataPath
+Build/
+-destination
+platform=iOS Simulator,OS=12.1,name=iPhone XR
+-enableCodeCoverage
+YES
+clean
+build
+test
+CODE_SIGN_IDENTITY=
+CODE_SIGNING_REQUIRED=NO
+13:02:33.623 xcodebuild[67648:5500493] Launching with Xcode.IDEFoundation.Launcher.PosixSpawn
+13:02:33.624 xcodebuild[67648:5500493] Test standard output and standard error is at /Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Logs/Test/Run-Cov-2018.11.26_13-02-30--0500.xcresult/3_Test/Diagnostics/CovTests-B4745F92-FC60-47DF-94D4-A338CC099F47/CovTests-5DAAF2BB-C861-4BBF-B1E6-8F0611F6634D/StandardOutputAndStandardError.txt
+13:02:33.630 xcodebuild[67648:5500493] Setting up test runner session
+13:02:33.630 xcodebuild[67648:5500950] Sim iPhone XR: Unregistering for sim device notification with token 5
+13:02:33.630 xcodebuild[67648:5500950] Calling -[SimDevice getenv:error:] for TESTMANAGERD_SIM_SOCK
+13:02:33.630 xcodebuild[67648:5500950] Sim iPhone XR has testmanagerd socket at /private/tmp/com.apple.launchd.2vchHWKT7d/com.apple.testmanagerd.unix-domain.socket
+13:02:33.630 xcodebuild[67648:5500950] Validating test connection socket path (/private/tmp/com.apple.launchd.2vchHWKT7d/com.apple.testmanagerd.unix-domain.socket)
+13:02:33.630 xcodebuild[67648:5500950] Constructing transport for test connection socket
+13:02:33.630 xcodebuild[67648:5500950] Connected socket 25 to testmanagerd for Sim iPhone XR
+13:02:33.631 xcodebuild[67648:5500887] Received connection for test runner session
+13:02:33.631 xcodebuild[67648:5500887] Listening for proxy connection request from the test bundle
+13:02:33.631 xcodebuild[67648:5500887] Initiating session with identifier: F4843D9E-7220-466E-A8E7-6CB7CA2DBF1E
+13:02:33.631 xcodebuild[67648:5500493] Launch session started.
+13:02:33.632 xcodebuild[67648:5500493] Test runner session acquired connection.
+13:02:33.632 xcodebuild[67648:5500878] Got reply to session initiation request with identifier F4843D9E-7220-466E-A8E7-6CB7CA2DBF1E (result:error): 29: (null)
+13:02:33.632 xcodebuild[67648:5500493] Waiting for test process to launch.
+13:02:33.634 xcodebuild[67648:5500532] 📱<DVTiPhoneSimulator (0x7fbf0be91bf0), iPhone XR, unknown class, 12.1 (16B91), F38D8B4A-8E26-48B6-A647-9432F9437EBB> simulator was claimed by LaunchSessionClaim_0x7fbf0bf915a0
+13:02:33.635 xcodebuild[67648:5500887] 📱<DVTiPhoneSimulator (0x7fbf0be91bf0), iPhone XR, unknown class, 12.1 (16B91), F38D8B4A-8E26-48B6-A647-9432F9437EBB> simulator was claimed by LaunchSessionClaim_0x7fbf0bf915a0
+13:02:33.635 xcodebuild[67648:5500887] F38D8B4A-8E26-48B6-A647-9432F9437EBB: Registered for sim device notification, got token 8
+13:02:33.635 xcodebuild[67648:5500797] F38D8B4A-8E26-48B6-A647-9432F9437EBB: Unregistering for sim device notification with token 8
+13:02:33.636 xcodebuild[67648:5500797] F38D8B4A-8E26-48B6-A647-9432F9437EBB: Installing app at path: /Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator/Cov.app and options: (null)
+13:02:33.895 xcodebuild[67648:5500797] F38D8B4A-8E26-48B6-A647-9432F9437EBB: Installed app at path: /Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator/Cov.app and options: (null)
+13:02:33.895 xcodebuild[67648:5500797] F38D8B4A-8E26-48B6-A647-9432F9437EBB: Registered for sim device notification, got token 10
+13:02:33.895 xcodebuild[67648:5500889] F38D8B4A-8E26-48B6-A647-9432F9437EBB: Unregistering for sim device notification with token 10
+13:02:34.160 xcodebuild[67648:5500797] F38D8B4A-8E26-48B6-A647-9432F9437EBB: Launching app with identifier: com.sm.Cov and options: {
+    "activate_suspended" = 0;
+    arguments =     (
+        "-NSTreatUnknownArgumentsAsOpen",
+        NO,
+        "-ApplePersistenceIgnoreState",
+        YES
+    );
+    environment =     {
+        "CA_ASSERT_MAIN_THREAD_TRANSACTIONS" = 0;
+        "CA_DEBUG_TRANSACTIONS" = 0;
+        "DYLD_FRAMEWORK_PATH" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator::/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator:";
+        "DYLD_INSERT_LIBRARIES" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libXCTestBundleInject.dylib:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib/libMainThreadChecker.dylib:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libXCTestBundleInject.dylib:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib/libMainThreadChecker.dylib";
+        "DYLD_LIBRARY_PATH" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator:/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator";
+        "LLVM_PROFILE_FILE" = "/var/folders/pk/ht_yrh6574n5d5gnf36jy_1h0000gn/T/com.sm.Cov/288246B9-BC3B-4ED3-A987-0BA5095A24B1-67648-0000D8991B7C437A/D1875EEC-4029-4654-857B-D5A2E363BE20-%p.profraw%15x";
+        "MTC_CRASH_ON_REPORT" = 1;
+        NSApplicationQuitWithoutSuddenTermination = YES;
+        NSUnbufferedIO = YES;
+        "OS_ACTIVITY_DT_MODE" = YES;
+        "SQLITE_ENABLE_THREAD_ASSERTIONS" = 1;
+        XCInjectBundleInto = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator/Cov.app/Cov";
+        XCTestConfigurationFilePath = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Logs/Test/Run-Cov-2018.11.26_13-02-30--0500.xcresult/3_Test/Diagnostics/CovTests-B4745F92-FC60-47DF-94D4-A338CC099F47/CovTests-5DAAF2BB-C861-4BBF-B1E6-8F0611F6634D/LaunchSessions/F4843D9E-7220-466E-A8E7-6CB7CA2DBF1E/remote-container/tmp/CovTests-F4843D9E-7220-466E-A8E7-6CB7CA2DBF1E.xctestconfiguration";
+        "__XCODE_BUILT_PRODUCTS_DIR_PATHS" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator";
+        "__XPC_DYLD_FRAMEWORK_PATH" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator:/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator";
+        "__XPC_DYLD_LIBRARY_PATH" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator:/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator";
+        "__XPC_LLVM_PROFILE_FILE" = "/var/folders/pk/ht_yrh6574n5d5gnf36jy_1h0000gn/T/com.sm.Cov/288246B9-BC3B-4ED3-A987-0BA5095A24B1-67648-0000D8991B7C437A/D1875EEC-4029-4654-857B-D5A2E363BE20-%p.profraw%15x";
+    };
+    stderr = "/dev/ttys005";
+    stdout = "/dev/ttys005";
+    "wait_for_debugger" = 0;
+}
+13:02:34.188 xcodebuild[67648:5500887] F38D8B4A-8E26-48B6-A647-9432F9437EBB: Launched app with identifier: com.sm.Cov (pid = 67856)
+13:02:34.189 xcodebuild[67648:5500887] 📱<DVTiPhoneSimulator (0x7fbf0be91bf0), iPhone XR, unknown class, 12.1 (16B91), F38D8B4A-8E26-48B6-A647-9432F9437EBB> tracking pid 67856
+13:02:34.189 xcodebuild[67648:5500887] 📱<DVTiPhoneSimulator (0x7fbf0be91bf0), iPhone XR, unknown class, 12.1 (16B91), F38D8B4A-8E26-48B6-A647-9432F9437EBB> checking to see if pid 67856 is valid: kill(pid, 0) = 0 (YES, it's still running)
+13:02:34.189 xcodebuild[67648:5500493] Test process runnable PID is 67856.
+New one
+13:02:34.695 xcodebuild[67648:5500878] Handling proxy channel request from test runner
+13:02:34.695 xcodebuild[67648:5500878] Test runner is ready, running protocol 29, requires at least version 7. Control framework is running 29 and requires at least 7
+13:02:34.695 xcodebuild[67648:5500493] Test runner session successfully initiated.
+13:02:34.695 xcodebuild[67648:5500493] Whitelisting test process ID 67856
+13:02:34.697 xcodebuild[67648:5500493] Got whitelisting response from test daemon: Success
+13:02:34.697 xcodebuild[67648:5500493] Registering/updating daemon-based crash report observer for process names (
+    SpringBoard,
+    Cov,
+    backboardd,
+    xctest
+)
+13:02:34.701 xcodebuild[67648:5500493] Telling test runner to start executing tests.
+13:02:34.688 Cov[67856:5501623] Linked XCTest.framework from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/XCTest, built with Xcode 1010(10B43a), modified on Friday, October 19, 2018 at 9:33:20 PM Eastern Daylight Time
+XCTest.framework bundle version: 14460.20
+13:02:34.689 Cov[67856:5501623] System uptime: 5:21
+13:02:34.689 Cov[67856:5501623] Process arguments: (
+    "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Bundle/Application/9F208418-6F0E-40F1-8092-E16948B6AFD8/Cov.app/Cov",
+    "-NSTreatUnknownArgumentsAsOpen",
+    NO,
+    "-ApplePersistenceIgnoreState",
+    YES
+)
+13:02:34.689 Cov[67856:5501623] Process environment: {
+    "CA_ASSERT_MAIN_THREAD_TRANSACTIONS" = 0;
+    "CA_DEBUG_TRANSACTIONS" = 0;
+    "CFFIXED_USER_HOME" = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Data/Application/6C6CF58D-6C2E-4936-940A-04D4DD25A48F";
+    CLASSIC = 0;
+    "CUPS_SERVER" = "/private/tmp/com.apple.launchd.hnIlrV7GVG/Listeners";
+    "DYLD_FALLBACK_FRAMEWORK_PATH" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks";
+    "DYLD_FALLBACK_LIBRARY_PATH" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib";
+    "DYLD_FRAMEWORK_PATH" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator::/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator:";
+    "DYLD_LIBRARY_PATH" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator:/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator";
+    "DYLD_ROOT_PATH" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot";
+    HOME = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Data/Application/6C6CF58D-6C2E-4936-940A-04D4DD25A48F";
+    "IOS_SIMULATOR_SYSLOG_SOCKET" = "/tmp/com.apple.CoreSimulator.SimDevice.F38D8B4A-8E26-48B6-A647-9432F9437EBB/syslogsock";
+    "IPHONE_SHARED_RESOURCES_DIRECTORY" = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data";
+    "IPHONE_SIMULATOR_ROOT" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot";
+    "IPHONE_TVOUT_EXTENDED_PROPERTIES" = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Library/Application Support/Simulator/extended_display.plist";
+    "LLVM_PROFILE_FILE" = "/var/folders/pk/ht_yrh6574n5d5gnf36jy_1h0000gn/T/com.sm.Cov/288246B9-BC3B-4ED3-A987-0BA5095A24B1-67648-0000D8991B7C437A/D1875EEC-4029-4654-857B-D5A2E363BE20-%p.profraw%15x";
+    "MTC_CRASH_ON_REPORT" = 1;
+    NSApplicationQuitWithoutSuddenTermination = YES;
+    NSUnbufferedIO = YES;
+    "OS_ACTIVITY_DT_MODE" = YES;
+    PATH = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/sbin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/sbin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/local/bin";
+    "RWI_LISTEN_SOCKET" = "/private/tmp/com.apple.launchd.vyqq9FuaXw/com.apple.webinspectord_sim.socket";
+    "SIMULATOR_AUDIO_DEVICES_PLIST_PATH" = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/var/run/com.apple.coresimulator.audio.plist";
+    "SIMULATOR_AUDIO_SETTINGS_PATH" = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/var/run/simulatoraudio/audiosettings.plist";
+    "SIMULATOR_BOOT_TIME" = 1543255033;
+    "SIMULATOR_CAPABILITIES" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/DeviceTypes/iPhone X\U0280.simdevicetype/Contents/Resources/capabilities.plist";
+    "SIMULATOR_DEVICE_NAME" = "iPhone XR";
+    "SIMULATOR_EXTENDED_DISPLAY_PROPERTIES" = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Library/Application Support/Simulator/extended_display.plist";
+    "SIMULATOR_HID_SYSTEM_MANAGER" = "/Library/Developer/PrivateFrameworks/CoreSimulator.framework/Resources/Platforms/iphoneos/Library/Frameworks/SimulatorHID.framework";
+    "SIMULATOR_HOST_HOME" = "/Users/sm1040808";
+    "SIMULATOR_LEGACY_ASSET_SUFFIX" = iphone;
+    "SIMULATOR_LOG_ROOT" = "/Users/sm1040808/Library/Logs/CoreSimulator/F38D8B4A-8E26-48B6-A647-9432F9437EBB";
+    "SIMULATOR_MAINSCREEN_HEIGHT" = 1792;
+    "SIMULATOR_MAINSCREEN_PITCH" = "326.000000";
+    "SIMULATOR_MAINSCREEN_SCALE" = "2.000000";
+    "SIMULATOR_MAINSCREEN_WIDTH" = 828;
+    "SIMULATOR_MEMORY_WARNINGS" = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/var/run/memory_warning_simulation";
+    "SIMULATOR_MODEL_IDENTIFIER" = "iPhone11,8";
+    "SIMULATOR_PRODUCT_CLASS" = N841;
+    "SIMULATOR_ROOT" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot";
+    "SIMULATOR_RUNTIME_BUILD_VERSION" = 16B91;
+    "SIMULATOR_RUNTIME_VERSION" = "12.1";
+    "SIMULATOR_SHARED_RESOURCES_DIRECTORY" = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data";
+    "SIMULATOR_UDID" = "F38D8B4A-8E26-48B6-A647-9432F9437EBB";
+    "SIMULATOR_VERSION_INFO" = "CoreSimulator 581.2 - Device: iPhone XR - Runtime: iOS 12.1 (16B91) - DeviceType: iPhone X\U0280";
+    "SQLITE_ENABLE_THREAD_ASSERTIONS" = 1;
+    "TESTMANAGERD_SIM_SOCK" = "/private/tmp/com.apple.launchd.2vchHWKT7d/com.apple.testmanagerd.unix-domain.socket";
+    TMPDIR = "/Users/sm1040808/Library/Developer/CoreSimulator/Devices/F38D8B4A-8E26-48B6-A647-9432F9437EBB/data/Containers/Data/Application/6C6CF58D-6C2E-4936-940A-04D4DD25A48F/tmp";
+    XCInjectBundleInto = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator/Cov.app/Cov";
+    XCTestConfigurationFilePath = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Logs/Test/Run-Cov-2018.11.26_13-02-30--0500.xcresult/3_Test/Diagnostics/CovTests-B4745F92-FC60-47DF-94D4-A338CC099F47/CovTests-5DAAF2BB-C861-4BBF-B1E6-8F0611F6634D/LaunchSessions/F4843D9E-7220-466E-A8E7-6CB7CA2DBF1E/remote-container/tmp/CovTests-F4843D9E-7220-466E-A8E7-6CB7CA2DBF1E.xctestconfiguration";
+    "XPC_FLAGS" = 0x0;
+    "XPC_SERVICE_NAME" = "UIKitApplication:com.sm.Cov[0x6081][66924]";
+    "XPC_SIMULATOR_LAUNCHD_NAME" = "com.apple.CoreSimulator.SimDevice.F38D8B4A-8E26-48B6-A647-9432F9437EBB";
+    "__XCODE_BUILT_PRODUCTS_DIR_PATHS" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator";
+    "__XPC_DYLD_FRAMEWORK_PATH" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator:/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator";
+    "__XPC_DYLD_LIBRARY_PATH" = "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator:/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Build/Products/Debug-iphonesimulator";
+    "__XPC_LLVM_PROFILE_FILE" = "/var/folders/pk/ht_yrh6574n5d5gnf36jy_1h0000gn/T/com.sm.Cov/288246B9-BC3B-4ED3-A987-0BA5095A24B1-67648-0000D8991B7C437A/D1875EEC-4029-4654-857B-D5A2E363BE20-%p.profraw%15x";
+}
+13:02:34.689 Cov[67856:5501623] App Sandbox active: NO
+13:02:34.689 Cov[67856:5501623] Loading test bundle at: file:///Users/sm1040808/Developer/SM1040808/iOS/Self%20Study/Cov/Build/Build/Products/Debug-iphonesimulator/Cov.app/PlugIns/CovTests.xctest/
+13:02:34.689 Cov[67856:5501623] Finished loading test bundle
+13:02:34.690 Cov[67856:5501623] Readying IDE session
+13:02:34.690 Cov[67856:5501623] Creating future for 'Exchange protocol versions with daemon' with timeout 15.00
+13:02:34.691 Cov[67856:5501623] <XCTWaiter: 0x600000c48240, state: XCTWaiterStateInProgress> entering wait loop for 15.00s with expectations: `Exchange protocol versions with daemon`
+13:02:34.691 Cov[67856:5501659] <XCTWaiter: 0x600000c48240, state: XCTWaiterStateSucceeded>: cancelWaiting
+13:02:34.691 Cov[67856:5501623] <XCTWaiter: 0x600000c48240, state: XCTWaiterStateSucceeded> done waiting
+13:02:34.692 Cov[67856:5501623] Canceling watchdog for <XCTWaiter: 0x600000c48240, state: XCTWaiterStateInProgress>.
+13:02:34.692 Cov[67856:5501623] <XCTWaiter: 0x600000c48240, state: XCTWaiterStateSucceeded> cleaning up `Exchange protocol versions with daemon`
+13:02:34.692 Cov[67856:5501623] Got daemon protocol version 26
+13:02:34.692 Cov[67856:5501623] Requesting IDE connection transport
+13:02:34.692 Cov[67856:5501623] <XCTWaiter: 0x600000c5c2e0, state: XCTWaiterStateInProgress> entering wait loop for 60.00s with expectations: `Transport for IDE session acquired`
+13:02:34.693 Cov[67856:5501659] Creating transport with received transport data
+13:02:34.693 Cov[67856:5501659] <XCTWaiter: 0x600000c5c2e0, state: XCTWaiterStateSucceeded>: cancelWaiting
+13:02:34.694 Cov[67856:5501623] <XCTWaiter: 0x600000c5c2e0, state: XCTWaiterStateSucceeded> done waiting
+13:02:34.694 Cov[67856:5501623] Canceling watchdog for <XCTWaiter: 0x600000c5c2e0, state: XCTWaiterStateInProgress>.
+13:02:34.694 Cov[67856:5501623] <XCTWaiter: 0x600000c5c2e0, state: XCTWaiterStateSucceeded> cleaning up `Transport for IDE session acquired`
+13:02:34.694 Cov[67856:5501623] Creating connection with transport <DTXFileDescriptorTransport: 0x60000205d800>
+13:02:34.694 Cov[67856:5501623] Creating the proxy channel with connection <DTXConnection 0x600003254500 : x1>
+13:02:34.695 Cov[67856:5501623] Creating future for 'IDE session ready for test plan' with timeout 60.00
+13:02:34.695 Cov[67856:5501623] Messaging IDE proxy - _XCT_testBundleReadyWithProtocolVersion:29 minimumVersion:7
+13:02:34.695 Cov[67856:5501623] <XCTWaiter: 0x600000c6e800, state: XCTWaiterStateInProgress> entering wait loop for 60.00s with expectations: `IDE session ready for test plan`
+13:02:34.695 Cov[67856:5501659] _XCT_testBundleReadyWithProtocolVersion:minimumVersion: reply received
+13:02:34.702 Cov[67856:5501658] _IDE_startExecutingTestPlanWithProtocolVersion:29
+13:02:34.702 Cov[67856:5501658] <XCTWaiter: 0x600000c6e800, state: XCTWaiterStateSucceeded>: cancelWaiting
+13:02:34.702 Cov[67856:5501623] <XCTWaiter: 0x600000c6e800, state: XCTWaiterStateSucceeded> done waiting
+13:02:34.702 Cov[67856:5501623] Canceling watchdog for <XCTWaiter: 0x600000c6e800, state: XCTWaiterStateInProgress>.
+13:02:34.702 Cov[67856:5501623] <XCTWaiter: 0x600000c6e800, state: XCTWaiterStateSucceeded> cleaning up `IDE session ready for test plan`
+13:02:34.706 xcodebuild[67648:5500493] Starting test plan, clearing initialization timeout timer.
+13:02:34.706 Cov[67856:5501623] Entering test execution event loop
+13:02:34.706 Cov[67856:5501623] -[XCTRunnerIDESession testBundleWillStart:]
+13:02:34.706 Cov[67856:5501623] Loading test suite...
+13:02:34.765 Cov[67856:5501623] Finished loading test suite, took 0.059s
+Test Suite 'All tests' started at 2018-11-26 13:02:34.766
+13:02:34.766 Cov[67856:5501623] Running suite...
+13:02:34.766 Cov[67856:5501623] -[XCTRunnerIDESession testSuiteWillStart:]
+13:02:34.766 xcodebuild[67648:5500493] _XCT_testSuite:All tests didStartAt:2018-11-26 18:02:34 +0000
+13:02:34.768 xcodebuild[67648:5500949] (LOG ARBITER) Rotating message buffer with 4 messages.
+13:02:34.769 xcodebuild[67648:5500878] (LOG ARBITER) Dumping buffered message data; 4 messages.
+13:02:34.767 Cov[67856:5501623] -[XCTRunnerIDESession testSuiteWillStart:]
+13:02:34.768 xcodebuild[67648:5500493] _XCT_testSuite:CovTests didStartAt:2018-11-26 18:02:34 +0000
+13:02:34.767 Cov[67856:5501623] -[XCTRunnerIDESession testCaseWillStart:] CovTests.CovTests testExample
+13:02:34.768 xcodebuild[67648:5500493] _XCT_testCaseDidStartForTestClass:CovTests.CovTests method:testExample
+Test Case '-[CovTests.CovTests testExample]' started.
+13:02:34.768 Cov[67856:5501623] -[XCTRunnerIDESession testCaseDidFinish:]
+13:02:34.768 xcodebuild[67648:5500493] _XCT_testCaseDidFinishForTestClass:CovTests.CovTests method:testExample withStatus:passed duration:0.0007290840148925781
+Test Case '-[CovTests.CovTests testExample]' passed (0.001 seconds).
+Test Case '-[CovTests.CovTests testNow]' started.
+13:02:34.768 Cov[67856:5501623] -[XCTRunnerIDESession testCaseWillStart:] CovTests.CovTests testNow
+13:02:34.769 xcodebuild[67648:5500493] _XCT_testCaseDidStartForTestClass:CovTests.CovTests method:testNow
+Test Case '-[CovTests.CovTests testNow]' passed (0.001 seconds).
+Test Case '-[CovTests.CovTests testPerformanceExample]' started.
+13:02:34.769 Cov[67856:5501623] -[XCTRunnerIDESession testCaseDidFinish:]
+13:02:34.773 xcodebuild[67648:5500493] _XCT_testCaseDidFinishForTestClass:CovTests.CovTests method:testNow withStatus:passed duration:0.0007460117340087891
+13:02:34.769 Cov[67856:5501623] -[XCTRunnerIDESession testCaseWillStart:] CovTests.CovTests testPerformanceExample
+13:02:34.773 xcodebuild[67648:5500493] _XCT_testCaseDidStartForTestClass:CovTests.CovTests method:testPerformanceExample
+/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/CovTests/CovTests.swift:37: Test Case '-[CovTests.CovTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 101.731%, values: [0.000003, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+13:02:35.047 Cov[67856:5501623] -[XCTRunnerIDESession _testCase:didMeasureValues:forPerformanceMetricID:name:unitsOfMeasurement:baselineName:baselineAverage:maxPercentRegression:maxPercentRelativeStandardDeviation:maxRegression:maxStandardDeviation:file:line:]
+Test Case '-[CovTests.CovTests testPerformanceExample]' passed (0.279 seconds).
+13:02:35.048 xcodebuild[67648:5500493] -[XCTTestRunnerSession _XCT_testMethod:ofClass:didMeasureMetric:file:line:]_block_invoke
+Test Suite 'CovTests' passed at 2018-11-26 13:02:35.048.
+	 Executed 3 tests, with 0 failures (0 unexpected) in 0.280 (0.282) seconds
+13:02:35.048 Cov[67856:5501623] -[XCTRunnerIDESession testCaseDidFinish:]
+13:02:35.049 xcodebuild[67648:5500493] _XCT_testCaseDidFinishForTestClass:CovTests.CovTests method:testPerformanceExample withStatus:passed duration:0.2785229682922363
+13:02:35.048 Cov[67856:5501623] -[XCTRunnerIDESession testSuiteDidFinish:]
+Test Suite 'CovTests.xctest' passed at 2018-11-26 13:02:35.049.
+	 Executed 3 tests, with 0 failures (0 unexpected) in 0.280 (0.282) seconds
+13:02:35.050 xcodebuild[67648:5500493] _XCT_testSuite:CovTests didFinishAt:2018-11-26 18:02:35 +0000 runCount:3 withFailures:0 unexpected:0 testDuration:0.2799980640411377 totalDuration:0.2815310955047607
+13:02:35.049 Cov[67856:5501623] -[XCTRunnerIDESession testSuiteDidFinish:]
+13:02:35.050 xcodebuild[67648:5500493] _XCT_testSuite:CovTests.xctest didFinishAt:2018-11-26 18:02:35 +0000 runCount:3 withFailures:0 unexpected:0 testDuration:0.2799980640411377 totalDuration:0.2824640274047852
+Test Suite 'All tests' passed at 2018-11-26 13:02:35.049.
+	 Executed 3 tests, with 0 failures (0 unexpected) in 0.280 (0.284) seconds
+13:02:35.049 Cov[67856:5501623] -[XCTRunnerIDESession testSuiteDidFinish:]
+13:02:35.050 xcodebuild[67648:5500493] _XCT_testSuite:All tests didFinishAt:2018-11-26 18:02:35 +0000 runCount:3 withFailures:0 unexpected:0 testDuration:0.2799980640411377 totalDuration:0.2836250066757202
+13:02:35.050 Cov[67856:5501623] Finished running suite.
+13:02:35.050 xcodebuild[67648:5500493] -[XCTTestRunnerSession _XCT_didFinishExecutingTestPlan]_block_invoke
+13:02:35.050 Cov[67856:5501623] -[XCTRunnerIDESession testBundleDidFinish:], Flushing connection to IDE...
+13:02:35.050 Cov[67856:5501623] Exited test execution event loop
+13:02:35.050 Cov[67856:5501623] Calling completion.
+13:02:35.050 Cov[67856:5501623] <XCTWaiter: 0x600000c59200, state: XCTWaiterStateInProgress> entering wait loop for 15.00s with expectations: `IDE confirmed the end of session`
+13:02:35.051 Cov[67856:5501665] <XCTWaiter: 0x600000c59200, state: XCTWaiterStateSucceeded>: cancelWaiting
+13:02:35.051 Cov[67856:5501623] <XCTWaiter: 0x600000c59200, state: XCTWaiterStateSucceeded> done waiting
+13:02:35.051 Cov[67856:5501623] Canceling watchdog for <XCTWaiter: 0x600000c59200, state: XCTWaiterStateInProgress>.
+13:02:35.051 Cov[67856:5501623] <XCTWaiter: 0x600000c59200, state: XCTWaiterStateSucceeded> cleaning up `IDE confirmed the end of session`
+13:02:35.061 xcodebuild[67648:5500533] Closing socket 25 to testmanagerd for Sim iPhone XR
+13:02:35.062 xcodebuild[67648:5500493] 📱<DVTiPhoneSimulator (0x7fbf0be91bf0), iPhone XR, unknown class, 12.1 (16B91), F38D8B4A-8E26-48B6-A647-9432F9437EBB> got death notice for pid 67856, removing from SimulatorSessionMap
+13:02:35.063 xcodebuild[67648:5500493] 📱<DVTiPhoneSimulator (0x7fbf0be91bf0), iPhone XR, unknown class, 12.1 (16B91), F38D8B4A-8E26-48B6-A647-9432F9437EBB> claim LaunchSessionClaim_0x7fbf0bf915a0 on simulator was relinquished
+13:02:35.063 xcodebuild[67648:5500493] 📱<DVTiPhoneSimulator (0x7fbf0be91bf0), iPhone XR, unknown class, 12.1 (16B91), F38D8B4A-8E26-48B6-A647-9432F9437EBB> claim LaunchSessionClaim_0x7fbf0bf915a0 on simulator was relinquished
+13:02:35.314 xcodebuild[67648:5500493] <IDETestOperationCoordinator: 0x7fbf0bfd7530> finished receiving data from testing launch session
+13:02:35.314 xcodebuild[67648:5500493] <IDETestOperationCoordinator: 0x7fbf0bfd7530>: _considerFlushingDelegateBlockQueue - nothing to flush
+13:02:35.314 xcodebuild[67648:5500493] _finishWithError:(null)

@@ -1,0 +1,25 @@
+New one
+Test Suite 'All tests' started at 2018-11-26 13:02:13.418
+Test Suite 'CovTests.xctest' started at 2018-11-26 13:02:13.418
+Test Suite 'CovTests' started at 2018-11-26 13:02:13.419
+Test Case '-[CovTests.CovTests testExample]' started.
+Test Case '-[CovTests.CovTests testExample]' passed (0.001 seconds).
+Test Case '-[CovTests.CovTests testFail]' started.
+/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/CovTests/CovTests.swift:32: error: -[CovTests.CovTests testFail] : failed - Failed test - demo
+Test Case '-[CovTests.CovTests testFail]' failed (0.006 seconds).
+Test Case '-[CovTests.CovTests testNow]' started.
+Test Case '-[CovTests.CovTests testNow]' passed (0.000 seconds).
+Test Case '-[CovTests.CovTests testPerformanceExample]' started.
+/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/CovTests/CovTests.swift:37: Test Case '-[CovTests.CovTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 121.367%, values: [0.000003, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+Test Case '-[CovTests.CovTests testPerformanceExample]' passed (0.273 seconds).
+Test Suite 'CovTests' failed at 2018-11-26 13:02:13.702.
+	 Executed 4 tests, with 1 failure (0 unexpected) in 0.281 (0.283) seconds
+Test Suite 'CovTests.xctest' failed at 2018-11-26 13:02:13.702.
+	 Executed 4 tests, with 1 failure (0 unexpected) in 0.281 (0.284) seconds
+Test Suite 'All tests' failed at 2018-11-26 13:02:13.703.
+	 Executed 4 tests, with 1 failure (0 unexpected) in 0.281 (0.285) seconds
+
+
+Test session results and logs:
+	/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Build/Logs/Test/Run-Cov-2018.11.26_13-02-01--0500.xcresult
+

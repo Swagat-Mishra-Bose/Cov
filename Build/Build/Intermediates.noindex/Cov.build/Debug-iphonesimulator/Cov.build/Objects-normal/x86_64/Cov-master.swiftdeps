@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "5092d3bf1206357fc46afd06c93b751e"
+build_time: [1543255350, 635599000]
+inputs:
+  "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Cov/ViewController.swift": [1541621308, 0]
+  "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/Cov/AppDelegate.swift": [1541600186, 0]

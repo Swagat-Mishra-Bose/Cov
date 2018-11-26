@@ -1,0 +1,5 @@
+2018-11-26 18:02:33 +0000: Received worker from worker provider: 0x7fbf0c07adb0 [0: iPhone XR (F38D8B4A-8E26-48B6-A647-9432F9437EBB)]
+2018-11-26 18:02:34 +0000: Worker 0x7fbf0c07adb0 [67856: iPhone XR (F38D8B4A-8E26-48B6-A647-9432F9437EBB)] finished bootstrapping
+2018-11-26 18:02:34 +0000: Parallelization disabled; test execution driven by the test process
+2018-11-26 18:02:35 +0000: Worker 0x7fbf0c07adb0 [67856: iPhone XR (F38D8B4A-8E26-48B6-A647-9432F9437EBB)] finished successfully
+2018-11-26 18:02:35 +0000: Finished executing tests (cancelled: No)

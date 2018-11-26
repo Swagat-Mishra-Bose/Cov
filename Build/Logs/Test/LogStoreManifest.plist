@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>908C9316-7545-4BB5-BC0F-C0A72F8FFCAA</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>23BA896B-6163-47DC-B64B-F8B4016137E0</string>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Run-Cov-2018.11.26_13-02-01--0500.xcresult</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Cov project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cov</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Cov</string>
+			<key>timeStartedRecording</key>
+			<real>564948121.92978406</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Cov</string>
+			<key>uniqueIdentifier</key>
+			<string>908C9316-7545-4BB5-BC0F-C0A72F8FFCAA</string>
+		</dict>
+		<key>F05615A4-2157-484C-9A19-0D40F313CABF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A1164F6A-CDB0-408F-83A2-3A6722AB4D4B</string>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Run-Cov-2018.11.26_13-02-30--0500.xcresult</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Cov project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cov</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Cov</string>
+			<key>timeStartedRecording</key>
+			<real>564948150.41210902</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Cov</string>
+			<key>uniqueIdentifier</key>
+			<string>F05615A4-2157-484C-9A19-0D40F313CABF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

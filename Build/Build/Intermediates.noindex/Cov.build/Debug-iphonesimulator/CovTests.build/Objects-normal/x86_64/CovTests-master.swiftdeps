@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "9dd62a02aaea746316a086b903b06202"
+build_time: [1543255352, 511928000]
+inputs:
+  "/Users/sm1040808/Developer/SM1040808/iOS/Self Study/Cov/CovTests/CovTests.swift": [1543255347, 0]
