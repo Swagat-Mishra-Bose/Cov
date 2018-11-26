@@ -21,6 +21,11 @@ or alternatively using `brew cask install fastlane`
 fastlane ios test
 ```
 Trainer
+### ios coverage
+```
+fastlane ios coverage
+```
+
 
 ----
 
