@@ -28,9 +28,9 @@ class CovTests: XCTestCase {
         XCTAssert(true, "Failed in testNow()")
     }
     
-    func testFail() {
-        XCTFail("Failed test - demo")
-    }
+//    func testFail() {
+//        XCTFail("Failed test - demo")
+//    }
 
     func testPerformanceExample() {
         // This is an example of a performance test case.
