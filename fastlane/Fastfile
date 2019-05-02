@@ -20,7 +20,6 @@ platform :ios do
   lane :test do
     swiftlint(
       mode: :lint,
-      path: "../",
       output_file: "swiftlint.result.json",
       config_file: ".swiftlint.yml",
       ignore_exit_status: false
